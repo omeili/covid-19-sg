@@ -1,5 +1,5 @@
 # COVID-19 Cases in Singapore
-This is a a consolidated list of all COVID-19 cases in Singapore as published in the press releases by the [Ministry of Health of Singapore (MoH)](https://www.moh.gov.sg/covid-19). The data is compiled from
+This is a a consolidated list of all COVID-19 cases in Singapore as published in the press releases 1) by the [Ministry of Health of Singapore (MoH)](https://www.moh.gov.sg/covid-19). The data is compiled from
 * The press releases itself (discharged patients)
 * Annex A (association of cases to clusters)
 * Annex B (newly confirmed cases)
@@ -15,3 +15,5 @@ Currently the update is quite a tedious process due to two reasons:
 * My laziness in building good scripts for the data cleaning and processing.
 
 If you can/want to help with either of the above, please let me know.
+
+1) Data before April 4 is taken from the [Straits Times article](https://www.straitstimes.com/singapore/health/novel-coronavirus-cases-in-singapore) summarizing the COVID-19 situation in Singapore.
