@@ -13,7 +13,8 @@ The statistics published by the MoH is based on the release data of the informat
 Currently the update is quite a tedious process due to two reasons:
 * MoH unfortunately publishes all the data as PDF files only, even the long list of confirmed cases. As such the data needs a lot of manual cleaning as data extraction from PDF is rarely a error-free process.
 * My laziness in building good scripts for the data cleaning and processing.
+* The latest data includes all records until April 19. Thereafter the MoH stopped publishing detailed case data.
 
 If you can/want to help with either of the above, please let me know.
 
-1) Data before April 4 is taken from the [Straits Times article](https://www.straitstimes.com/singapore/health/novel-coronavirus-cases-in-singapore) summarizing the COVID-19 situation in Singapore.
+1) Data before April 4 is taken from the [Straits Times article](https://www.straitstimes.com/singapore/health/novel-coronavirus-cases-in-singapore) summarizing the COVID-19 situation in Singapore and enhanced with MoH data later.
